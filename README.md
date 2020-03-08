@@ -19,4 +19,7 @@ How to install.
 4. Enjoy!
 
 JSON
+
 ![](ProgressBar/JsonStructure.png)
+
+JQuery part originates from kingrayhan @ https://kingrayhan.github.io/LineProgressbar/
